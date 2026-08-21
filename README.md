@@ -1,4 +1,19 @@
-## 🛠️ Data Pipeline & Power Query Steps
+Markdown
+# Egypt Sales & Customer Analytics Dashboard
+
+An interactive **Excel Power Pivot** dashboard providing end-to-end insights into regional sales performance, product category distributions, and customer purchasing patterns across Egypt.
+
+---
+
+ 
+## 📌 Project Overview
+<img width="1124" height="663" alt="Diagram" src="https://github.com/user-attachments/assets/a7731eb6-ac8e-4b78-a6e9-50a8554024dd" />
+<img width="1316" height="578" alt="Untitledtable" src="https://github.com/user-attachments/assets/84b61cff-1b2e-41b7-aa41-0a812d73aa64" />
+
+ 
+---
+ 
+ ## 🛠️ Data Pipeline & Power Query Steps
 
 Data was ingested, cleaned, and transformed using **Power Query** before loading into the Data Model:
 
